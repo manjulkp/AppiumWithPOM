@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Learning">
+
+
+<test name="SelendroidHomeScreen test">
+    <classes>
+        <class name="com.cheam.testcases.SelendroidHomeScreenValidationTest" ></class>  
+    </classes>
+</test>
+
+<test name="WebViewScreen test">
+    <classes>
+        <class name="com.cheam.testcases.WebViewScreenValidationTest" ></class>  
+    </classes>
+</test>
+
+
+
+
+
+
+</suite>
